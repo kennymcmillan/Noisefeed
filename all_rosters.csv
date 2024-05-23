@@ -1,0 +1,470 @@
+,Team,Player,Position,Matches Played,Matches On Bench,Matches Injured,Minutes Played,Goals,Yellow / Red Cards,Match Sharpness
+0,Arsenal,David Raya,GK,37,5,-,3736,-,1/0,99%
+1,Arsenal,A. Ramsdale,GK,11,36,-,1119,-,0/0,9%
+2,Arsenal,W. Saliba,RCB,46,1,-,4627,2,6/0,99%
+3,Arsenal,Gabriel Magalhaes,LCB,46,2,-,4447,3,5/0,95%
+4,Arsenal,B. White,RB,47,-,1,4162,4,11/0,91%
+5,Arsenal,O. Zinchenko,LB,34,5,9,2280,1,3/0,32%
+6,Arsenal,J. Kiwior,LB,28,20,-,1785,1,2/0,46%
+7,Arsenal,T. Tomiyasu,LB,26,4,13,1458,1,1/1,15%
+8,Arsenal,Cédric Soares,RB,5,24,1,149,-,0/0,3%
+9,Arsenal,J. Timber,LB,2,-,45,134,-,1/0,3%
+10,Arsenal,R. Walters,RB,-,11,-,-,-,0/0,3%
+11,Arsenal,D. Rice,DMF,47,-,1,4318,6,6/0,91%
+12,Arsenal,M. Ødegaard,RCMF,44,1,3,4074,11,2/0,91%
+13,Arsenal,K. Havertz,LCMF,47,-,-,3800,12,12/0,98%
+14,Arsenal,Jorginho,DMF,35,11,3,1870,1,2/0,43%
+15,Arsenal,T. Partey,DMF,12,6,6,631,-,2/0,8%
+16,Arsenal,Fábio Vieira,LCMF,16,14,16,586,1,0/1,3%
+17,Arsenal,E. Smith Rowe,LCMF,18,20,-,566,-,0/0,11%
+18,Arsenal,Mohamed Elneny,DMF,6,22,7,126,-,0/0,3%
+19,Arsenal,B. Saka,RWF,44,1,-,3956,18,3/0,82%
+20,Arsenal,Gabriel Martinelli,LWF,40,-,8,2696,8,1/0,46%
+21,Arsenal,L. Trossard,LWF,42,4,2,2232,15,2/0,60%
+22,Arsenal,Gabriel Jesus,CF,33,2,13,2081,8,8/0,40%
+23,Arsenal,E. Nketiah,CF,37,10,1,1632,6,4/0,12%
+24,Arsenal,R. Nelson,LWF,23,20,1,774,1,1/0,13%
+25,Aston Villa,E. Martínez,GK,44,3,3,4456,-,6/0,99%
+26,Aston Villa,R. Olsen,GK,6,35,9,537,-,0/0,10%
+27,Aston Villa,J. Gauci,GK,-,7,-,-,-,0/0,15%
+28,Aston Villa,E. Konsa,RB,44,1,4,4285,1,8/1,76%
+29,Aston Villa,M. Cash,RB,42,2,5,3364,5,10/0,48%
+30,Aston Villa,Pau Torres,LCB,35,9,6,3222,2,1/0,64%
+31,Aston Villa,L. Digne,LB,40,2,7,3153,2,9/0,57%
+32,Aston Villa,Diego Carlos,RCB,33,10,7,2481,1,5/0,51%
+33,Aston Villa,C. Lenglet,LCB,23,18,3,2085,-,4/0,40%
+34,Aston Villa,Álex Moreno,LB,28,6,16,1768,3,2/0,In progress
+35,Aston Villa,C. Chambers,RB,5,32,-,272,-,1/0,4%
+36,Aston Villa,T. Mings,LCB,1,-,49,31,-,0/0,In progress
+37,Aston Villa,K. Kesler-Hayden,RB,2,15,-,3,-,0/0,3%
+38,Aston Villa,Douglas Luiz,LCMF,47,-,-,4295,10,13/0,80%
+39,Aston Villa,J. McGinn,LW,47,-,-,4167,9,9/1,73%
+40,Aston Villa,L. Bailey,RW,47,1,2,3080,14,6/0,68%
+41,Aston Villa,Y. Tielemans,RCMF,44,-,6,2931,2,6/0,77%
+42,Aston Villa,B. Kamara,RCMF,30,1,15,2626,1,7/1,In progress
+43,Aston Villa,N. Zaniolo,LW,37,5,3,1497,3,12/0,In progress
+44,Aston Villa,J. Ramsey,LW,21,-,29,1214,1,2/0,In progress
+45,Aston Villa,M. Rogers,LW,13,3,-,879,2,4/0,63%
+46,Aston Villa,T. Iroegbunam,RCMF,11,17,13,284,-,0/0,12%
+47,Aston Villa,O. Watkins,CF,47,1,2,4257,26,7/0,90%
+48,Aston Villa,M. Diaby,SS,48,1,1,2980,9,3/0,52%
+49,Aston Villa,J. Durán,CF,31,6,13,1129,6,7/0,16%
+50,Bournemouth,Neto,GK,31,3,3,3161,-,5/0,99%
+51,Bournemouth,A. Radu,GK,5,14,1,501,-,0/0,4%
+52,Bournemouth,M. Travers,GK,4,24,-,428,-,0/0,20%
+53,Bournemouth,D. Randolph,GK,-,1,4,-,-,0/0,3%
+54,Bournemouth,I. Zabarnyi,RCB,39,-,-,3902,1,5/0,99%
+55,Bournemouth,M. Senesi,LCB,32,2,5,2629,3,12/0,In progress
+56,Bournemouth,M. Kerkez,LB,32,3,5,2497,-,6/1,61%
+57,Bournemouth,A. Smith,RB,28,5,7,2447,-,5/0,84%
+58,Bournemouth,L. Kelly,LB,22,-,17,1661,1,2/0,44%
+59,Bournemouth,M. Aarons,RB,20,5,15,1504,-,2/0,3%
+60,Bournemouth,C. Mepham,RCB,13,16,8,958,-,2/0,In progress
+61,Bournemouth,J. Hill,RB,5,8,8,159,-,0/0,3%
+62,Bournemouth,R. Christie,LDMF,39,-,-,3293,1,5/0,81%
+63,Bournemouth,L. Cook,RDMF,34,-,3,3182,-,6/1,94%
+64,Bournemouth,M. Tavernier,LAMF,33,-,7,2500,4,3/0,In progress
+65,Bournemouth,A. Semenyo,RAMF,32,5,1,2161,8,5/0,60%
+66,Bournemouth,J. Kluivert,AMF,32,8,-,1962,8,5/0,64%
+67,Bournemouth,P. Billing,AMF,31,3,1,1921,2,4/1,27%
+68,Bournemouth,A. Scott,AMF,23,2,15,1354,2,3/0,41%
+69,Bournemouth,Dango Ouattara,LAMF,28,3,7,1295,1,2/0,42%
+70,Bournemouth,L. Sinisterra,LAMF,23,4,5,1101,3,0/0,In progress
+71,Bournemouth,T. Adams,LDMF,3,2,33,156,-,0/0,In progress
+72,Bournemouth,R. Faivre,RAMF,5,7,2,82,-,1/0,In progress
+73,Bournemouth,D. Solanke,CF,38,-,2,3617,20,5/0,96%
+74,Bournemouth,E. Ünal,CF,13,-,-,287,1,2/0,17%
+75,Burnley,J. Trafford,GK,28,6,2,2830,-,2/0,55%
+76,Burnley,A. Murić,GK,10,25,2,1010,-,1/0,72%
+77,Burnley,L. Vigouroux,GK,-,7,-,-,-,0/0,3%
+78,Burnley,D. O'Shea,RCB,33,1,2,3249,3,5/1,88%
+79,Burnley,C. Taylor,LB,28,2,4,2645,1,7/0,66%
+80,Burnley,Vitinho,RB,32,2,3,2557,-,2/0,73%
+81,Burnley,J. Beyer,LCB,15,-,21,1358,-,6/0,In progress
+82,Burnley,A. Al Dakhil,RCB,16,3,13,1357,1,2/0,In progress
+83,Burnley,M. Estève,LCB,12,-,-,1121,-,3/0,77%
+84,Burnley,L. Assignon,RB,11,-,-,1030,1,3/1,63%
+85,Burnley,H. Delcroix,LB,15,10,3,983,-,2/0,12%
+86,Burnley,H. Ekdal,LCB,8,9,15,497,-,3/0,15%
+87,Burnley,S. Berge,RCMF,36,-,1,3199,2,9/1,96%
+88,Burnley,J. Brownhill,LCMF,32,4,-,2524,4,4/1,49%
+89,Burnley,J. Cullen,DMF,24,9,3,2159,1,8/0,69%
+90,Burnley,W. Odobert,LW,29,4,-,2152,4,2/0,84%
+91,Burnley,J. Bruun Larsen,LW,31,6,-,1378,6,0/0,49%
+92,Burnley,J. Gudmunds­son,RW,24,4,7,1325,1,2/0,25%
+93,Burnley,L. Koleosho,LW,15,1,20,1042,1,0/0,In progress
+94,Burnley,A. Ramsey,RW,17,3,17,758,-,1/0,In progress
+95,Burnley,M. Trésor,LW,17,8,3,657,-,1/0,5%
+96,Burnley,B. Manuel,RW,8,12,6,157,-,0/0,3%
+97,Burnley,J. Cork,RCMF,5,20,10,149,-,0/0,3%
+98,Burnley,H. Massengo,RCMF,4,5,-,61,-,0/0,3%
+99,Burnley,Z. Amdouni,CF,33,4,-,2133,5,2/0,34%
+100,Burnley,L. Foster,CF,22,-,13,1830,5,0/1,51%
+101,Burnley,J. Rodriguez,CF,23,12,-,1178,2,1/0,20%
+102,Burnley,D. Fofana,CF,12,-,-,910,4,1/0,61%
+103,Burnley,N. Redmond,CF,14,4,20,350,-,1/0,In progress
+104,Chelsea,D. Petrović,GK,25,17,-,2469,-,4/0,99%
+105,Chelsea,Robert Sánchez,GK,21,3,21,2131,-,2/0,In progress
+106,Chelsea,M. Bettinelli,GK,-,18,19,-,-,1/0,3%
+107,Chelsea,A. Disasi,RCB,42,2,1,4138,3,6/0,80%
+108,Chelsea,Thiago Silva,LCB,33,7,3,3030,4,5/0,45%
+109,Chelsea,L. Colwill,LB,32,-,13,2729,1,3/0,In progress
+110,Chelsea,M. Gusto,RB,33,1,7,2581,-,6/1,In progress
+111,Chelsea,Marc Cucurella,LB,20,6,18,1874,1,8/0,52%
+112,Chelsea,B. Chilwell,LB,21,1,23,1325,-,6/0,In progress
+113,Chelsea,B. Badiashile,LCB,16,10,19,1319,1,1/0,32%
+114,Chelsea,T. Chalobah,LCB,11,1,33,793,-,2/0,38%
+115,Chelsea,R. James,RB,9,-,35,506,-,1/1,In progress
+116,Chelsea,A. Gilchrist,RB,15,16,-,418,1,1/0,15%
+117,Chelsea,C. Gallagher,AMF,44,-,-,3939,5,8/1,97%
+118,Chelsea,M. Caicedo,RDMF,42,-,2,3773,-,13/0,91%
+119,Chelsea,E. Fernández,LDMF,40,-,4,3436,7,10/0,In progress
+120,Chelsea,C. Palmer,RAMF,39,-,1,3416,23,8/0,79%
+121,Chelsea,R. Sterling,LAMF,40,2,1,2960,8,7/0,40%
+122,Chelsea,M. Mudryk,LAMF,36,5,4,1874,6,6/0,47%
+123,Chelsea,N. Madueke,RAMF,28,10,7,1294,6,1/0,43%
+124,Chelsea,L. Ugochukwu,RDMF,13,4,28,629,-,3/0,In progress
+125,Chelsea,C. Chukwuemeka,AMF,12,5,28,335,2,2/0,3%
+126,Chelsea,C. Casadei,RW,6,5,-,75,-,0/0,10%
+127,Chelsea,Diego Moreira,LW,1,1,-,51,-,0/0,7%
+128,Chelsea,R. Lavia,LDMF,1,1,42,41,-,0/0,In progress
+129,Chelsea,N. Jackson,CF,38,-,-,3311,13,9/0,95%
+130,Chelsea,C. Nkunku,CF,10,1,34,466,2,0/0,In progress
+131,Chelsea,Deivid Washington,CF,3,21,-,47,-,0/0,3%
+132,Crystal Palace,S. Johnstone,GK,23,4,11,2279,-,1/0,In progress
+133,Crystal Palace,D. Henderson,GK,16,8,10,1528,-,1/0,95%
+134,Crystal Palace,R. Matthews,GK,1,26,-,16,-,0/0,3%
+135,Crystal Palace,J. Andersen,RCB,36,1,-,3616,2,6/0,99%
+136,Crystal Palace,T. Mitchell,LB,37,-,-,3558,1,6/0,95%
+137,Crystal Palace,M. Guéhi,LCB,26,-,12,2383,-,2/0,In progress
+138,Crystal Palace,J. Ward,RB,25,4,9,2209,-,4/0,49%
+139,Crystal Palace,N. Clyne,RB,19,18,-,1463,-,0/0,36%
+140,Crystal Palace,D. Muñoz,RWB,12,-,-,1206,-,3/0,78%
+141,Crystal Palace,J. Tomkins,CB,4,25,9,109,-,0/0,3%
+142,Crystal Palace,R. Holding,RCB,1,10,22,98,-,1/0,In progress
+143,Crystal Palace,J. Lerma,LCMF,30,-,8,2894,1,9/0,In progress
+144,Crystal Palace,C. Richards,DMF,26,9,3,2361,1,3/0,62%
+145,Crystal Palace,E. Eze,AMF,28,-,10,2224,8,4/0,In progress
+146,Crystal Palace,W. Hughes,LCMF,30,1,6,2072,-,5/0,57%
+147,Crystal Palace,J. Schlupp,LAMF,30,2,1,1752,1,1/0,25%
+148,Crystal Palace,C. Doucouré,RDMF,12,1,24,1080,-,2/0,In progress
+149,Crystal Palace,A. Wharton,RCMF,12,-,-,1018,-,2/0,68%
+150,Crystal Palace,N. Ahamada,LCMF,21,13,4,520,-,2/0,12%
+151,Crystal Palace,J. Riedewald,LCMF,10,20,6,415,-,0/0,3%
+152,Crystal Palace,Matheus França,LW,12,9,17,397,-,1/0,In progress
+153,Crystal Palace,J. Rak-Sakyi,RW,8,4,26,281,-,0/0,In progress
+154,Crystal Palace,D. Ozoh,RCMF,12,12,-,258,-,1/0,6%
+155,Crystal Palace,J. Ayew,RWF,34,-,-,2849,4,8/1,75%
+156,Crystal Palace,J. Mateta,CF,35,2,1,2588,14,5/0,97%
+157,Crystal Palace,O. Édouard,CF,29,3,6,1805,8,3/0,21%
+158,Crystal Palace,M. Olise,RWF,15,-,23,1048,7,0/0,17%
+159,Everton,J. Pickford,GK,38,3,-,3855,-,4/0,99%
+160,Everton,João Virginia,GK,3,38,-,299,-,1/0,8%
+161,Everton,A. Lonergan,GK,-,12,-,-,-,0/0,3%
+162,Everton,J. Tarkowski,RCB,41,-,-,4070,2,10/0,99%
+163,Everton,J. Branthwaite,LCB,37,3,-,3712,3,9/0,94%
+164,Everton,V. Mykolenko,LB,34,4,3,3293,2,1/0,In progress
+165,Everton,A. Young,RB,30,2,8,2348,1,6/1,60%
+166,Everton,N. Patterson,RB,26,13,2,1642,-,6/0,In progress
+167,Everton,B. Godfrey,RB,14,27,-,1143,-,2/0,52%
+168,Everton,M. Keane,RCB,11,27,2,818,1,3/0,6%
+169,Everton,S. Coleman,RB,10,6,23,637,-,0/0,In progress
+170,Everton,M. Hunt,LB,-,19,-,-,-,0/0,3%
+171,Everton,J. Garner,LCMF,40,-,1,3723,2,6/0,82%
+172,Everton,D. McNeil,LW,37,-,4,3352,3,3/0,97%
+173,Everton,J. Harrison,RW,33,1,5,2806,4,2/0,72%
+174,Everton,A. Onana,LCMF,33,1,7,2765,3,5/0,40%
+175,Everton,A. Doucouré,AMF,31,-,10,2722,6,6/0,73%
+176,Everton,I. Gueye,RCMF,25,3,7,1928,2,7/0,36%
+177,Everton,A. Danjuma,LW,20,12,9,1075,2,0/0,3%
+178,Everton,André Gomes,AMF,12,3,22,602,2,3/0,27%
+179,Everton,L. Dobbin,LW,14,18,-,333,1,1/0,In progress
+180,Everton,J. Metcalfe,RDMF,-,4,-,-,-,0/0,58%
+181,Everton,D. Calvert-Lewin,CF,35,-,5,2576,7,2/1,69%
+182,Everton,Beto,CF,35,1,2,1401,5,2/0,In progress
+183,Everton,Youssef Chermiti,CF,16,23,-,214,-,4/0,5%
+184,Fulham,B. Leno,GK,37,2,-,3788,-,4/0,99%
+185,Fulham,M. Rodák,GK,5,37,-,499,-,1/0,8%
+186,Fulham,S. Benda,GK,-,3,7,-,-,0/0,3%
+187,Fulham,A. Robinson,LB,40,1,1,3862,-,4/0,98%
+188,Fulham,T. Castagne,RB,35,3,-,3130,1,3/0,80%
+189,Fulham,C. Bassey,LCB,28,4,1,2521,1,4/1,75%
+190,Fulham,T. Adarabioyo,RCB,25,2,15,2264,2,2/0,78%
+191,Fulham,I. Diop,RCB,22,3,10,1905,1,3/0,19%
+192,Fulham,T. Ream,LCB,20,13,8,1823,1,3/1,22%
+193,Fulham,K. Tete,RB,18,12,10,1315,1,3/0,18%
+194,Fulham,F. Ballo-Touré,LB,7,17,-,256,-,1/0,3%
+195,Fulham,João Palhinha,RDMF,35,2,1,3191,4,13/0,76%
+196,Fulham,Andreas Pereira,AMF,41,1,-,3054,3,6/0,86%
+197,Fulham,Willian,LAMF,34,1,6,2548,5,1/0,In progress
+198,Fulham,A. Iwobi,LAMF,29,-,1,2256,6,2/0,62%
+199,Fulham,H. Wilson,RAMF,39,1,2,2186,4,8/0,33%
+200,Fulham,T. Cairney,AMF,38,4,-,2122,2,3/0,45%
+201,Fulham,B. De Cordova-Reid,RAMF,37,5,-,2037,7,4/0,38%
+202,Fulham,H. Reed,RDMF,32,10,-,1778,-,6/0,28%
+203,Fulham,S. Lukić,LDMF,26,11,5,1476,1,5/0,52%
+204,Fulham,Adama Traoré,RAMF,15,1,25,393,1,1/0,16%
+205,Fulham,Rodrigo Muniz,CF,29,8,5,2016,9,2/0,92%
+206,Fulham,R. Jiménez,CF,27,5,6,1697,5,4/1,7%
+207,Fulham,A. Broja,CF,6,2,1,97,-,0/0,7%
+208,Liverpool,Alisson Becker,GK,28,5,17,2818,-,2/0,39%
+209,Liverpool,C. Kelleher,GK,26,26,2,2655,-,2/0,77%
+210,Liverpool,Adrián,GK,-,25,-,-,-,0/0,3%
+211,Liverpool,V. van Dijk,LCB,44,5,2,4160,4,4/1,90%
+212,Liverpool,J. Gomez,RB,48,3,2,3380,-,7/0,57%
+213,Liverpool,I. Konaté,RCB,37,9,7,2885,-,6/1,52%
+214,Liverpool,T. Alexander-Arnold,RB,33,1,19,2534,3,6/0,19%
+215,Liverpool,J. Quansah,RCB,29,21,-,2352,1,2/0,49%
+216,Liverpool,A. Robertson,LB,27,3,22,2174,1,2/0,53%
+217,Liverpool,K. Tsimikas,LB,25,19,9,1635,-,0/0,15%
+218,Liverpool,C. Bradley,RB,22,7,-,1609,1,4/0,In progress
+219,Liverpool,J. Matip,RCB,14,7,33,1187,-,2/0,In progress
+220,Liverpool,Stefan Bajčetić,RB,2,5,42,78,-,1/0,3%
+221,Liverpool,A. Mac Allister,DMF,42,4,7,3505,6,8/1,76%
+222,Liverpool,D. Szoboszlai,RCMF,41,3,10,2964,7,1/0,43%
+223,Liverpool,H. Elliott,RCMF,49,5,-,2785,3,3/0,48%
+224,Liverpool,W. Endo,DMF,39,5,2,2731,2,10/0,54%
+225,Liverpool,C. Jones,LCMF,34,3,-,2199,5,3/1,29%
+226,Liverpool,R. Gravenberch,LCMF,34,8,8,1865,4,1/0,21%
+227,Liverpool,B. Clark,LCMF,12,11,-,407,1,1/0,10%
+228,Liverpool,J. McConnell,RCMF,9,22,-,272,-,1/0,7%
+229,Liverpool,Thiago Alcântara,LCMF,1,-,53,12,-,0/0,In progress
+230,Liverpool,L. Díaz,LWF,47,5,-,3653,13,3/0,84%
+231,Liverpool,D. Núñez,CF,50,1,3,3298,18,11/0,63%
+232,Liverpool,Mohamed Salah,RWF,40,-,10,3172,24,2/0,53%
+233,Liverpool,C. Gakpo,CF,49,1,3,2966,14,2/0,60%
+234,Liverpool,Diogo Jota,CF,32,1,20,1899,15,2/1,In progress
+235,Liverpool,B. Doak,RWF,5,10,-,261,-,0/0,In progress
+236,Luton Town,T. Kaminski,GK,34,3,-,3432,-,3/0,99%
+237,Luton Town,T. Krul,GK,6,33,-,583,-,0/0,12%
+238,Luton Town,J. Shea,GK,-,15,-,-,-,0/0,3%
+239,Luton Town,A. Doughty,LWB,39,-,1,3305,2,4/0,86%
+240,Luton Town,T. Mengi,RCB,31,3,2,2892,1,5/0,74%
+241,Luton Town,C. Ogbene,RWB,34,-,6,2609,5,1/0,In progress
+242,Luton Town,A. Bell,LCB,27,-,13,2337,-,0/0,In progress
+243,Luton Town,I. Kaboré,RWB,26,5,2,1991,-,7/0,In progress
+244,Luton Town,R. Burke,RCB,23,4,13,1881,-,5/0,54%
+245,Luton Town,G. Osho,CB,19,2,20,1860,2,3/0,30%
+246,Luton Town,T. Lockyer,CB,15,-,25,1343,1,4/0,In progress
+247,Luton Town,M. Andersen,CB,10,5,25,643,1,1/0,In progress
+248,Luton Town,D. Hashioka,LCB,9,1,4,514,-,0/0,32%
+249,Luton Town,F. Onyedinma,RWB,5,-,13,296,-,1/0,16%
+250,Luton Town,D. Potts,LB,-,6,32,-,-,0/0,In progress
+251,Luton Town,R. Barkley,LCMF,34,-,5,3098,5,5/0,98%
+252,Luton Town,P. Mpanzu,RCMF,31,9,-,1595,-,1/0,29%
+253,Luton Town,J. Clark,RCMF,23,3,13,1447,3,5/0,67%
+254,Luton Town,M. Nakamba,RCMF,14,-,24,1271,-,5/0,In progress
+255,Luton Town,A. Sambi Lokonga,RCMF,15,-,20,1177,-,2/0,17%
+256,Luton Town,L. Berry,LCMF,17,18,3,547,2,2/0,25%
+257,Luton Town,C. Morris,CF,39,1,-,3167,9,2/0,99%
+258,Luton Town,T. Chong,LWF,34,6,-,2137,5,4/0,72%
+259,Luton Town,E. Adebayo,CF,28,-,11,1592,9,1/0,In progress
+260,Luton Town,A. Townsend,RWF,29,1,-,1470,1,1/0,57%
+261,Luton Town,J. Brown,LWF,22,2,16,1290,3,4/0,In progress
+262,Luton Town,C. Woodrow,CF,25,9,6,744,3,2/0,24%
+263,Manchester City,Ederson,GK,39,10,3,3772,-,5/0,70%
+264,Manchester City,S. Ortega,GK,16,37,-,1534,-,0/0,54%
+265,Manchester City,S. Carson,GK,-,26,1,-,-,0/0,3%
+266,Manchester City,K. Walker,RB,41,8,4,3950,-,2/0,50%
+267,Manchester City,Rúben Dias,RCB,42,9,2,3937,-,3/0,78%
+268,Manchester City,M. Akanji,RCB,42,6,5,3736,4,7/1,74%
+269,Manchester City,J. Gvardiol,LB,36,11,5,3233,2,5/0,58%
+270,Manchester City,N. Aké,LCB,39,9,4,3109,3,0/0,45%
+271,Manchester City,J. Stones,RCB,26,13,14,1925,1,2/0,41%
+272,Manchester City,R. Lewis,RB,26,27,-,1754,2,1/0,35%
+273,Manchester City,Sergio Gómez,LB,15,32,3,516,-,0/0,6%
+274,Manchester City,P. Foden,AMF,48,5,-,4230,24,1/0,80%
+275,Manchester City,Rodri,DMF,44,5,-,4180,8,10/1,83%
+276,Manchester City,Bernardo Silva,RAMF,43,4,6,3621,12,8/0,71%
+277,Manchester City,M. Kovačić,LDMF,40,6,7,2599,3,4/0,44%
+278,Manchester City,J. Grealish,LAMF,34,9,9,2254,3,7/0,34%
+279,Manchester City,J. Doku,LAMF,37,3,9,2168,5,4/0,44%
+280,Manchester City,Matheus Nunes,AMF,27,18,3,1485,-,1/0,26%
+281,Manchester City,K. De Bruyne,AMF,20,5,30,1426,6,3/0,59%
+282,Manchester City,O. Bobb,RAMF,24,26,-,915,2,0/0,19%
+283,Manchester City,J. Álvarez,CF,49,4,-,3662,17,4/0,67%
+284,Manchester City,E. Haaland,CF,39,2,12,3592,31,1/0,In progress
+285,Manchester United,A. Onana,GK,45,-,-,4616,-,6/0,99%
+286,Manchester United,A. Bayındır,GK,1,39,3,101,-,0/0,3%
+287,Manchester United,T. Heaton,GK,-,12,13,-,-,0/0,3%
+288,Manchester United,Diogo Dalot,RB,44,1,-,4308,2,6/1,98%
+289,Manchester United,H. Maguire,RCB,30,4,12,2540,4,5/0,62%
+290,Manchester United,R. Varane,RCB,30,5,11,2354,1,2/0,In progress
+291,Manchester United,V. Lindelöf,LB,27,3,16,2166,1,3/0,In progress
+292,Manchester United,A. Wan-Bissaka,RB,24,3,19,2114,-,5/0,51%
+293,Manchester United,J. Evans,LCB,25,7,10,1448,-,2/0,In progress
+294,Manchester United,L. Shaw,LB,15,-,31,1288,-,6/0,In progress
+295,Manchester United,L. Martínez,LCB,11,-,35,833,-,4/0,In progress
+296,Manchester United,W. Kambwala,RB,9,8,-,404,-,1/0,In progress
+297,Manchester United,Bruno Fernandes,AMF,44,1,-,4451,15,11/0,99%
+298,Manchester United,A. Garnacho,LAMF,44,2,-,3348,9,4/0,79%
+299,Manchester United,M. Rashford,LAMF,40,1,3,3240,8,2/1,In progress
+300,Manchester United,S. McTominay,RDMF,38,4,4,2739,10,3/0,49%
+301,Manchester United,Casemiro,DMF,27,1,18,2378,5,8/1,64%
+302,Manchester United,K. Mainoo,RDMF,26,5,12,2062,3,3/0,73%
+303,Manchester United,Antony,RAMF,35,3,3,1968,2,5/0,38%
+304,Manchester United,C. Eriksen,LDMF,23,14,9,1429,1,1/0,18%
+305,Manchester United,S. Amrabat,LDMF,24,9,6,1311,-,6/0,11%
+306,Manchester United,M. Mount,LDMF,17,1,28,780,1,2/0,In progress
+307,Manchester United,A. Diallo,RAMF,7,9,28,276,1,1/1,14%
+308,Manchester United,O. Forson,RW,6,11,-,129,-,0/0,4%
+309,Manchester United,R. Højlund,CF,37,-,9,3067,14,2/0,80%
+310,Manchester United,A. Martial,CF,19,4,23,728,2,0/0,In progress
+311,Newcastle United,M. Dúbravka,GK,26,17,3,2586,-,1/0,99%
+312,Newcastle United,N. Pope,GK,20,-,25,2002,-,2/0,In progress
+313,Newcastle United,L. Karius,GK,1,33,-,98,-,0/0,5%
+314,Newcastle United,M. Gillespie,GK,-,13,-,-,-,0/0,3%
+315,Newcastle United,F. Schär,LCB,44,-,2,4289,5,8/0,96%
+316,Newcastle United,K. Trippier,RB,36,1,9,3360,1,5/0,In progress
+317,Newcastle United,D. Burn,LB,38,-,8,3336,4,3/0,83%
+318,Newcastle United,J. Lascelles,RCB,26,12,8,2146,1,6/0,In progress
+319,Newcastle United,S. Botman,LCB,22,-,23,1986,2,2/0,In progress
+320,Newcastle United,T. Livramento,LB,32,10,4,1864,1,1/0,21%
+321,Newcastle United,E. Krafth,RB,16,13,9,769,-,1/0,44%
+322,Newcastle United,L. Hall,LB,17,24,-,619,1,2/0,24%
+323,Newcastle United,P. Dummett,LB,7,29,-,232,-,0/0,3%
+324,Newcastle United,M. Targett,LB,7,10,29,221,-,1/0,In progress
+325,Newcastle United,Bruno Guimarães,DMF,45,-,-,4378,4,13/0,97%
+326,Newcastle United,S. Longstaff,RCMF,41,-,4,3656,6,8/0,93%
+327,Newcastle United,L. Miley,RCMF,26,3,-,1915,1,1/0,In progress
+328,Newcastle United,Joelinton,LCMF,23,-,23,1876,3,8/0,In progress
+329,Newcastle United,E. Anderson,LCMF,21,-,-,966,-,1/0,29%
+330,Newcastle United,J. Willock,LCMF,14,-,30,783,2,1/0,In progress
+331,Newcastle United,S. Tonali,RCMF,12,1,-,753,1,3/0,3%
+332,Newcastle United,M. Ritchie,RW,15,18,-,310,1,1/0,4%
+333,Newcastle United,J. White,RCMF,4,5,1,33,-,1/0,11%
+334,Newcastle United,A. Gordon,LWF,44,-,-,3902,11,12/1,88%
+335,Newcastle United,M. Almirón,RWF,41,-,5,2942,5,3/0,In progress
+336,Newcastle United,A. Isak,CF,35,1,10,2826,21,1/0,80%
+337,Newcastle United,C. Wilson,CF,23,-,23,1423,8,3/0,3%
+338,Newcastle United,J. Murphy,RWF,23,5,18,1408,2,1/0,73%
+339,Newcastle United,H. Barnes,LWF,18,-,28,821,4,1/0,41%
+340,Nottingham Forest,M. Turner,GK,21,19,-,2179,-,2/0,27%
+341,Nottingham Forest,M. Sels,GK,12,-,-,1225,-,1/0,94%
+342,Nottingham Forest,O. Vlachodimos,GK,7,17,-,744,-,0/0,10%
+343,Nottingham Forest,W. Hennessey,GK,-,1,9,-,-,0/0,3%
+344,Nottingham Forest,Murillo,LCB,32,1,-,3176,-,6/0,92%
+345,Nottingham Forest,N. Williams,RB,31,5,-,2260,-,4/0,86%
+346,Nottingham Forest,H. Toffolo,LB,26,8,1,1862,1,3/0,35%
+347,Nottingham Forest,M. Niakhaté,RCB,19,13,-,1684,1,3/1,31%
+348,Nottingham Forest,O. Aina,LB,19,4,9,1577,1,3/0,39%
+349,Nottingham Forest,W. Boly,RCB,17,3,11,1343,1,2/1,In progress
+350,Nottingham Forest,A. Omobamidele,RCB,13,8,-,1214,1,2/0,52%
+351,Nottingham Forest,G. Montiel,RB,15,10,10,946,-,5/0,5%
+352,Nottingham Forest,Nuno Tavares,LB,12,5,11,796,-,3/0,6%
+353,Nottingham Forest,Felipe,RCB,9,7,20,662,-,4/0,26%
+354,Nottingham Forest,M. Gibbs-White,AMF,38,-,2,3562,6,9/0,99%
+355,Nottingham Forest,A. Elanga,RAMF,35,-,5,2757,5,1/0,64%
+356,Nottingham Forest,R. Yates,RDMF,36,2,-,2503,-,8/0,67%
+357,Nottingham Forest,Danilo,LDMF,30,2,7,2190,3,5/0,65%
+358,Nottingham Forest,C. Hudson-Odoi,LAMF,30,1,4,2069,5,0/0,72%
+359,Nottingham Forest,N. Domínguez,LDMF,27,7,-,1919,3,5/0,42%
+360,Nottingham Forest,I. Sangaré,LDMF,15,5,6,1092,-,6/0,12%
+361,Nottingham Forest,D. Origi,RAMF,22,3,10,880,1,1/0,33%
+362,Nottingham Forest,C. Kouyaté,LCMF,13,17,-,431,-,3/0,4%
+363,Nottingham Forest,G. Reyna,AMF,9,2,2,265,-,0/0,23%
+364,Nottingham Forest,Rodrigo Ribeiro,AMF,4,7,-,48,-,0/0,4%
+365,Nottingham Forest,C. Wood,CF,31,-,9,2128,13,1/0,60%
+366,Nottingham Forest,T. Awoniyi,CF,20,-,20,1313,6,2/0,In progress
+367,Sheffield United,W. Foderingham,GK,27,10,-,2701,-,2/0,49%
+368,Sheffield United,I. Grbić,GK,10,2,2,979,-,1/0,63%
+369,Sheffield United,A. Davies,GK,1,18,-,100,-,0/0,26%
+370,Sheffield United,J. Amissah,GK,-,6,-,-,-,0/0,12%
+371,Sheffield United,J. Robinson,LCB,31,1,3,3024,1,8/0,In progress
+372,Sheffield United,J. Bogle,RB,32,1,3,2908,3,9/0,In progress
+373,Sheffield United,A. Ahmedhodžić,RCB,29,1,6,2827,1,9/0,89%
+374,Sheffield United,A. Trusty,LCB,30,6,1,2723,-,4/0,83%
+375,Sheffield United,G. Baldock,RCB,13,1,22,1085,-,4/0,In progress
+376,Sheffield United,M. Holgate,RCB,8,1,-,693,-,3/1,43%
+377,Sheffield United,Y. Larouci,LWB,12,20,-,651,-,1/0,14%
+378,Sheffield United,J. Egan,CB,7,-,30,635,-,2/0,In progress
+379,Sheffield United,C. Basham,RCB,9,-,28,477,-,1/0,In progress
+380,Sheffield United,M. Lowe,LWB,8,3,26,455,-,1/0,In progress
+381,Sheffield United,R. Norrington-Davies,LB,7,1,28,297,-,1/0,In progress
+382,Sheffield United,G. Hamer,RCMF,34,-,-,3030,5,10/0,87%
+383,Sheffield United,Vini Souza,DMF,34,2,-,2799,1,2/0,66%
+384,Sheffield United,J. McAtee,RW,31,-,-,2154,5,2/0,In progress
+385,Sheffield United,O. Norwood,DMF,30,6,-,1998,1,9/0,26%
+386,Sheffield United,B. Osborn,LCMF,23,5,9,1439,-,3/0,69%
+387,Sheffield United,A. Brooks,LCMF,19,11,-,964,-,1/0,23%
+388,Sheffield United,B. Brereton Díaz,LW,12,1,3,948,5,3/0,63%
+389,Sheffield United,O. Arblaster,DMF,8,-,-,709,-,1/0,54%
+390,Sheffield United,A. Ben Slimane,LW,13,14,2,435,-,2/0,7%
+391,Sheffield United,T. Davies,RCMF,9,1,23,283,-,2/0,In progress
+392,Sheffield United,C. Archer,CF,28,-,6,2028,4,1/0,22%
+393,Sheffield United,O. McBurnie,CF,23,3,8,1541,6,5/2,In progress
+394,Sheffield United,W. Osula,CF,23,7,-,1049,3,4/0,20%
+395,Sheffield United,R. Brewster,CF,12,-,22,379,-,0/1,In progress
+396,Tottenham Hotspur,G. Vicario,GK,34,1,-,3485,-,3/0,99%
+397,Tottenham Hotspur,F. Forster,GK,1,25,9,105,-,0/0,In progress
+398,Tottenham Hotspur,B. Austin,GK,-,12,-,-,-,0/0,3%
+399,Tottenham Hotspur,Pedro Porro,RB,31,1,2,3114,2,4/0,In progress
+400,Tottenham Hotspur,D. Udogie,LB,30,1,3,2899,2,7/1,In progress
+401,Tottenham Hotspur,C. Romero,RCB,28,1,3,2640,4,6/1,91%
+402,Tottenham Hotspur,M. van de Ven,LCB,23,2,10,2229,2,4/0,64%
+403,Tottenham Hotspur,Emerson Royal,RB,21,14,-,1402,1,3/0,25%
+404,Tottenham Hotspur,B. Davies,LCB,18,14,3,1372,1,1/0,19%
+405,Tottenham Hotspur,R. Drăgușin,LCB,6,7,-,282,-,1/0,21%
+406,Tottenham Hotspur,D. Kulusevski,RAMF,33,-,1,2862,6,6/0,61%
+407,Tottenham Hotspur,Y. Bissouma,LDMF,24,1,-,2006,-,8/2,59%
+408,Tottenham Hotspur,J. Maddison,AMF,24,-,11,1943,4,4/0,82%
+409,Tottenham Hotspur,B. Johnson,RAMF,28,-,2,1925,5,3/0,70%
+410,Tottenham Hotspur,P. Sarr,RDMF,29,-,4,1869,3,6/0,47%
+411,Tottenham Hotspur,P. Højbjerg,RDMF,34,1,-,1577,-,4/0,35%
+412,Tottenham Hotspur,R. Bentancur,LDMF,19,-,16,1001,1,6/0,48%
+413,Tottenham Hotspur,T. Werner,LAMF,13,-,-,960,2,1/0,66%
+414,Tottenham Hotspur,O. Skipp,RDMF,20,9,1,892,-,3/0,In progress
+415,Tottenham Hotspur,G. Lo Celso,AMF,19,6,10,683,2,2/0,12%
+416,Tottenham Hotspur,M. Solomon,LAMF,6,2,27,320,-,1/0,In progress
+417,Tottenham Hotspur,Bryan Gil,LAMF,11,9,8,307,-,1/0,4%
+418,Tottenham Hotspur,R. Sessegnon,RAMF,1,-,33,13,-,0/0,In progress
+419,Tottenham Hotspur,Son Heung-Min,CF,30,-,-,2701,15,1/0,84%
+420,Tottenham Hotspur,Richarlison,CF,28,1,6,1835,11,3/0,In progress
+421,Tottenham Hotspur,D. Scarlett,CF,5,3,1,87,-,0/0,3%
+422,Tottenham Hotspur,J. Donley,CF,4,9,-,25,-,1/0,59%
+423,Tottenham Hotspur,Yago Santiago,CF,-,4,-,-,-,0/0,79%
+424,West Ham United,A. Aréola,GK,29,12,7,2827,-,1/0,41%
+425,West Ham United,Ł. Fabiański,GK,23,24,1,2072,-,0/0,81%
+426,West Ham United,J. Anang,GK,-,17,-,-,-,0/0,3%
+427,West Ham United,V. Coufal,RB,43,2,3,4068,-,7/1,85%
+428,West Ham United,Emerson,LB,43,1,2,3970,1,11/0,79%
+429,West Ham United,K. Zouma,RCB,35,7,5,3381,3,4/0,83%
+430,West Ham United,K. Mavropanos,RCB,32,10,5,2883,1,2/0,In progress
+431,West Ham United,N. Aguerd,LCB,28,8,7,2596,2,2/1,In progress
+432,West Ham United,B. Johnson,RB,22,12,3,1002,-,1/0,28%
+433,West Ham United,A. Ogbonna,LCB,14,35,-,924,-,1/0,11%
+434,West Ham United,A. Cresswell,LB,15,26,7,910,1,3/0,31%
+435,West Ham United,J. Ward-Prowse,AMF,47,-,-,4171,6,5/0,95%
+436,West Ham United,T. Souček,RDMF,48,-,1,4047,9,9/0,82%
+437,West Ham United,M. Kudus,RAMF,41,-,1,3473,13,7/0,91%
+438,West Ham United,Lucas Paquetà,LAMF,39,-,7,3413,8,12/0,65%
+439,West Ham United,E. Álvarez,LDMF,39,-,3,3298,2,15/0,67%
+440,West Ham United,M. Cornet,LAMF,16,20,8,412,1,0/0,3%
+441,West Ham United,K. Phillips,LDMF,10,3,3,377,-,2/1,9%
+442,West Ham United,J. Bowen,CF,41,-,7,3968,19,4/0,In progress
+443,West Ham United,M. Antonio,CF,28,2,18,1883,6,8/0,61%
+444,West Ham United,D. Ings,CF,27,22,-,877,1,1/0,16%
+445,West Ham United,D. Mubama,CF,12,29,-,330,-,0/0,3%
+446,Wolverhampton Wanderers,José Sá,GK,37,-,2,3678,-,2/0,99%
+447,Wolverhampton Wanderers,D. Bentley,GK,6,34,1,531,-,0/0,6%
+448,Wolverhampton Wanderers,T. King,GK,-,7,-,-,-,0/0,3%
+449,Wolverhampton Wanderers,M. Kilman,RCB,40,1,-,4096,2,8/0,99%
+450,Wolverhampton Wanderers,Nélson Semedo,RWB,37,-,1,3565,1,10/0,81%
+451,Wolverhampton Wanderers,Toti Gomes,LCB,38,3,-,3427,1,6/0,92%
+452,Wolverhampton Wanderers,C. Dawson,CB,28,3,8,2601,1,7/0,In progress
+453,Wolverhampton Wanderers,R. Aït-Nouri,LWB,34,-,4,2583,3,8/0,60%
+454,Wolverhampton Wanderers,M. Doherty,LWB,34,7,-,1745,3,2/0,50%
+455,Wolverhampton Wanderers,S. Bueno,CB,15,18,1,1368,-,2/0,In progress
+456,Wolverhampton Wanderers,Hugo Bueno,LWB,23,12,5,932,1,1/0,27%
+457,Wolverhampton Wanderers,M. Lemina,RCMF,35,-,-,3297,5,10/1,87%
+458,Wolverhampton Wanderers,João Gomes,RCMF,34,2,1,2768,2,9/1,73%
+459,Wolverhampton Wanderers,Pablo Sarabia,AMF,33,7,1,2322,4,5/0,75%
+460,Wolverhampton Wanderers,T. Doyle,LCMF,30,5,1,1977,1,2/0,64%
+461,Wolverhampton Wanderers,Pedro Neto,AMF,23,1,15,1923,3,5/0,In progress
+462,Wolverhampton Wanderers,B. Traoré,LCMF,23,10,2,940,-,3/0,21%
+463,Wolverhampton Wanderers,H. Griffiths,RCMF,1,5,3,41,-,0/0,In progress
+464,Wolverhampton Wanderers,N. Lemina,RW,-,6,3,-,-,0/0,In progress
+465,Wolverhampton Wanderers,Matheus Cunha,CF,32,1,8,2713,13,9/0,28%
+466,Wolverhampton Wanderers,Hwang Hee-Chan,CF,27,-,8,2153,11,6/0,24%
+467,Wolverhampton Wanderers,J. Bellegarde,CF,23,-,10,1234,2,0/1,In progress
+468,Wolverhampton Wanderers,N. Fraser,CF,11,11,-,428,2,1/0,14%
